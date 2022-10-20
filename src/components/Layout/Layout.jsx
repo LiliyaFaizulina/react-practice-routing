@@ -12,7 +12,7 @@ export const Layout = () => {
             </LinkNav>
           </li>
           <li>
-            <LinkNav to="search">Search</LinkNav>
+            <LinkNav to="country">Countries</LinkNav>
           </li>
         </ul>
       </nav>

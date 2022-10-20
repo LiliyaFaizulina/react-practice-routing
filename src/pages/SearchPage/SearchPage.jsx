@@ -1,3 +1,3 @@
-// export const SearchPage = () => {
-//   return <div>SearchPage</div>;
-// };
+export const SearchPage = () => {
+  return <div>Search Page</div>;
+};
