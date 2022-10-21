@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-practice-routing/static/css/main.7d40bf6a.css",
-    "main.js": "/react-practice-routing/static/js/main.a239ad07.js",
+    "main.js": "/react-practice-routing/static/js/main.be9f750b.js",
     "index.html": "/react-practice-routing/index.html",
     "main.7d40bf6a.css.map": "/react-practice-routing/static/css/main.7d40bf6a.css.map",
-    "main.a239ad07.js.map": "/react-practice-routing/static/js/main.a239ad07.js.map"
+    "main.be9f750b.js.map": "/react-practice-routing/static/js/main.be9f750b.js.map"
   },
   "entrypoints": [
     "static/css/main.7d40bf6a.css",
-    "static/js/main.a239ad07.js"
+    "static/js/main.be9f750b.js"
   ]
 }
